@@ -1,0 +1,9 @@
+target
+.DS_Store
+/src/main/resources/
+/src/test
+.idea
+*.iws
+*.iml
+*.ipr
+build/
